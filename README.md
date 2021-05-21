@@ -1,5 +1,5 @@
 # Paradox AntiCheat
-Official Minecraft Testserver: test.paradoxanticheat.de
+Official Minecraft Testserver: test.paradoxanticheat.de\n
 Official Webpage: https://paradoxanticheat.de
 
 
